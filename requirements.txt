@@ -1,0 +1,5 @@
+html2text==2020.1.16
+mwxml==0.3.3
+wikitextparser==0.51.2
+bz2file==0.98
+requests==2.30.0
