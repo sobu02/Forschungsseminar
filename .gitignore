@@ -2,7 +2,9 @@
 *.xml
 *.bz2
 *.zip
+*.csv
 exzellent/
+cleaned_exzellent/
 .DS_Store
 
 ## Ignore Visual Studio temporary files, build results, and
