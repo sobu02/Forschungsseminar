@@ -1,13 +1,6 @@
 # Forschungsseminar
 
 [![npm version][npm-badge]][npm-url]
-[![npm downloads][downloads-badge]][npm-url]
-[![npm bundle size][size-badge]][npm-url]
-[![Open issues][issues-badge]][issues-url]
-[![TypeScript][typescript-badge]][typescript-url]
-[![semantic-release][semantic-badge]][semantic-url]
-
-[![Codecov Coverage][coverage-badge]][coverage-url]
 
 [![](misc/demo.gif)](https://mkosir.github.io/react-parallax-tilt/?path=/story/react-parallax-tilt--glare-effect)
 
