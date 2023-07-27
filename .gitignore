@@ -4,6 +4,7 @@
 *.zip
 *.csv
 exzellent/
+not_exzellent/
 cleaned_exzellent/
 exzellente_subset/
 .DS_Store
