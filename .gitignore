@@ -3,8 +3,8 @@
 *.bz2
 *.zip
 *.csv
-exzellent/
-not_exzellent/
+data/exzellent/
+data/not_exzellent/
 cleaned_exzellent/
 exzellente_subset/
 .DS_Store

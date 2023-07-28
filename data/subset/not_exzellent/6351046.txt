@@ -1,0 +1,2 @@
+Infobox Olympische Spiele
+{| class="float-right infobox toptextcells toccolours" style="width: 340px; font-size: 90%;" |+ style="padding-bottom: 1em; font-size: larger; font- weight: bold" | |- |- |- |- |- |- |- |- |- |- |- |- |- |- |- |} 

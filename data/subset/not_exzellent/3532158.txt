@@ -1,0 +1,2 @@
+EditSection
+Diese Vorlage platziert einen Bearbeiten-Link zur angegebenen Seite, wie er in der Wikipedia bei den Abschnitten üblich ist. Verwendung: {{EditSection|Seitenname|Abschnittskennung (optional)}} Kategorie:Vorlage:Linkhilfe 

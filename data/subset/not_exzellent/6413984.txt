@@ -1,0 +1,2 @@
+Metadaten Einwohnerzahl PT-08
+Diese Vorlage enthält die Einwohnerzahlen des portugiesischen Distrikts . Sie wird über die Vorlage:Metadaten Einwohnerzahl PT eingebunden. #08 

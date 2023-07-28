@@ -1,0 +1,2 @@
+Wahldiagramm/Partei/Doku/Kopf
+{| class="wikitable sortable" |- !Partei!!F1!!F2!!Link |- |} Kategorie:Vorlage:Metadokumentation 

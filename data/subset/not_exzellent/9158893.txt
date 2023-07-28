@@ -1,0 +1,2 @@
+Tabellenzeile Französische Départements
+{| class="wikitable sortable" style="text-align:center" |- | |style="border- right: 0;"| |style="text-align:left"| |style="text-align:left"| | FR- |style="text-align:right"| |style="text-align:right"| |style="text- align:right"| |style="background:#FFFFF0; text-align:right;"| |style="background:#FFFFF0; text-align:right;"| |style="background:#FFFFF0; text-align:right;"| Kategorie:Vorlage:Tabellenzeile Kategorie:Vorlage:Frankreich 

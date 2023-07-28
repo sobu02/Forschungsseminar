@@ -1,0 +1,2 @@
+Imagemap Wahlkreis Sarganserland
+Diese Vorlage erzeugt eine anklickbare Karte (eine sogenannte Imagemap) mit den Gemeinden des Wahlkreis Sarganserland. Verwendung mit Standardmaßen: {{|Bild.png}} {{|Bild.png|Name der Gemeinde}} Verwendung mit abweichenden Maßen: {{|Bild.png|thumb|299x299px|…}} {{|Bild=Bild.png|Maße=thumb{{!}}299x299px|Alt=…}} Es dürfen nur Bilder mit einer Basisgröße von 1476 × 1466 Pixeln eingesetzt werden. Die zur Verfügung stehenden Karten sind in der Kategorie Maps of municipalities in the district of Sarganserland aufgezählt. Sarganserland 

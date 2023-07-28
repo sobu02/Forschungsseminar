@@ -1,0 +1,2 @@
+Imagemap Antarktika1
+Diese Vorlage erzeugt eine anklickbare Karte (eine sogenannte Imagemap). Verwendung: {{|Bild.svg}} {{|Bild.svg|left|281px}} Es dürfen nur Bilder mit einer dem obigen Bild entsprechenden Basisgröße eingesetzt werden. Für die Verwendung in Infoboxen (experimentell): {{|Bild=…|Maße=left{{!}}299px|Alt=…}} Antarktika 
