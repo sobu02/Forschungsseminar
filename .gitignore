@@ -2,7 +2,6 @@
 *.xml
 *.bz2
 *.zip
-*.csv
 data/exzellent/
 data/not_exzellent/
 cleaned_exzellent/
