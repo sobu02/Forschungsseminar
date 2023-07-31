@@ -1,2 +1,0 @@
-Bilinear interpolation.svg
-== Beschreibung, Quelle == == Lizenz == 

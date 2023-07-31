@@ -1,2 +1,0 @@
-Sender Heuberg (Tirol)
-Der Sender Heuberg steht nordöstlich von Schwaz (auf dem Heuberg / in der Gemeinde Stans) und deckt den Großraum Schwaz ab. Der Senderinhaber ist privat. Der interne Name des Senders lautet SCHWAZ2. == UKW-Sender == {| class="wikitable" |- ! Sender !! Sendeleistung !! Frequenz |- | Radio U1 Tirol || 0,055 kW || 100,2 MHz |- | Radio Austria || 0,055 kW || 103,1 MHz |- | Life Radio Tirol || 0,05 kW || 105,5 MHz |} : == Sendegebiet == Das Sendegebiet reicht von Jenbach bis nach Weer. Kategorie:Schwaz Kategorie:Stans (Tirol) Heuberg 

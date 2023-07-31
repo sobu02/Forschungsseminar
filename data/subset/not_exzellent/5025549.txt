@@ -1,2 +1,0 @@
-Person (Religion, Baden-Württemberg)
-!Religion !Person Badenwurttemberg 

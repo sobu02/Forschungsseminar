@@ -1,2 +1,0 @@
-Wikipedia:Vorlagenfehler/Vorlage:CatalogOfFishes
-Seiten mit Fehler bei Nutzung der Vorlage:CatalogOfFishes. Insbesondere: * Weder ArtID= noch GenID= wurde angegeben. Kategorie:Wikipedia:Vorlagenfehler (einzelne Vorlage) Kategorie:Wikipedia:Vorlagenfehler/Biologie 

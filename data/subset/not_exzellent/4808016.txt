@@ -1,0 +1,2 @@
+Wahldiagramm/Legende
+| {|style="height:1.3ex; width:1.3ex; background:#;" |} 

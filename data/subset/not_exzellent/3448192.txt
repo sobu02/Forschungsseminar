@@ -1,2 +1,0 @@
-Infobox Curler
-{| class="infobox toccolours float-right" style="margin:0 0 0.5em 1em; font- size: 85%;" |- | colspan="2" style="text-align:center; background: #b0c4de; line-height:24px; font-size: 120%" | |- |- ! style="background: #b0c4de;" colspan="2" | Karriere |- |} 

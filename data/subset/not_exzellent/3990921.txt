@@ -1,0 +1,2 @@
+Geographie/Tabs
+{| style="background:transparent" border="0" cellspacing="0" cellpadding="2" height="140" width="100%" | width="18%" | Übersicht | style="border- bottom:solid 1px #008B45" | | width="18%" | Ausgezeichnet | style="border- bottom:solid 1px #008B45" | | width="18%" | Mitmachen | style="border- bottom:solid 1px #008B45" | | width="18%" | Diskussion Sachthemen | style="border-bottom:solid 1px #008B45" | | width="18%" | Diskussion Kategorien |} 

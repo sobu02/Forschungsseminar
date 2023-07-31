@@ -1,0 +1,2 @@
+Root-Server
+Root-Server nennt man: * Root-Nameserver, welche die Wurzel des Domain Name Systems bereitstellen * Dedizierte oder virtuelle Server mit einem Root-Konto, siehe Server #Formen 
